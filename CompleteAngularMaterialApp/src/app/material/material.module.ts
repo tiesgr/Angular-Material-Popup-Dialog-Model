@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import { NgModule } from '@angular/core/src';
 import { CommonModule } from '@angular/common';
 import * as Material from "@angular/material";
 

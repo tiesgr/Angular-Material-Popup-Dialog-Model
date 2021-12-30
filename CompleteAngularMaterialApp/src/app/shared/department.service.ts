@@ -1,4 +1,6 @@
-import { Injectable } from '@angular/core';
+//import { Injectable } from '@angular/core';
+
+import { Injectable } from '@angular/core/src';
 import { AngularFireDatabase, AngularFireList } from 'angularfire2/database';
 
 import * as _ from 'lodash';
